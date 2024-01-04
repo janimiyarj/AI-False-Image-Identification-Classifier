@@ -1,7 +1,8 @@
 # AI-False-Image-Identification-Classifier
 Report AI Generated Images Detector
 The quality of AI-generated images has rapidly increased, leading to concerns of authenticity and trustworthiness. .The goal of this project is to train a image classification model to detect AI generated images.
-CIFAKE: Real and AI-Generated Synthetic Images: CIFAKE is a dataset that contains 60,000 synthetically-generated images and 60,000 real images (collected from CIFAR-10).
+
+CIFAKE(https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/data): Real and AI-Generated Synthetic Images: CIFAKE is a dataset that contains 60,000 synthetically-generated images and 60,000 real images (collected from CIFAR-10).
 
 This dataset is available for free in kaggle. 
 
